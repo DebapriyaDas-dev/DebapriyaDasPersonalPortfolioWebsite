@@ -477,25 +477,25 @@ section .title::after{
     background: rgb(127, 127, 185);
 }
 .skills-content .right .html::before{
-    width: 80%;
+    width: 60%;
 }
 .skills-content .right .css::before{
-    width: 50%;
+    width: 40%;
 }
 .skills-content .right .js::before{
-    width: 50%;
+    width: 20%;
 }
 .skills-content .right .python::before{
-    width: 80%;
+    width: 60%;
 }
 .skills-content .right .java::before{
     width: 90%;
 }
 .skills-content .right .c::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 60%;
+    width: 70%;
 }
 
 /* teams section styling */
